@@ -1,0 +1,24 @@
+.game-card {
+    padding: 14px 36px 24px;
+    margin: 14px;
+    width: 256px;
+}
+
+.game-card-editing {
+    padding: 14px 36px 2px;
+    margin: 14px;
+    width: 216px;
+}
+
+.game-card-editing-input {
+    width: 46px;
+    margin: 8px 14px;
+}
+
+.score-board {
+    margin-bottom: 14px;
+}
+
+.game-card-container {
+    display: flex;
+}
